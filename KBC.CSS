@@ -1,0 +1,14 @@
+#frame001 {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 3px solid black;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+#center001 {
+    text-align: center;
+    color: black;
+}
